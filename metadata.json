@@ -1,0 +1,6 @@
+{
+  "name": "GyanLens",
+  "description": "AI-powered study solver: Snap photos of questions from any subject, ask via mic or keyboard, and get instant step-by-step solutions with voice explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

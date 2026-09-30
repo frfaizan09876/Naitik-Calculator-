@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GyanLens</string>
+    <string name="app_tagline">फोटो खींचे, सवाल पूछें और तुरंत हल पाएं</string>
+    <string name="snap_question">सवाल की फोटो लें</string>
+    <string name="gallery_pick">गैलरी से चुनें</string>
+    <string name="ask_mic">माइक से पूछें</string>
+    <string name="listening">सुन रहे हैं… बोलिए</string>
+    <string name="type_placeholder">सवाल लिखें या कोई निर्देश दें (उदा: स्टेप-बाय-स्टेप समझाएं)…</string>
+    <string name="solve_button">हल निकालें (Solve)</string>
+    <string name="history_title">सॉल्व किए गए सवाल</string>
+    <string name="clear_history">इतिहास मिटाएं</string>
+    <string name="speech_not_supported">आपके डिवाइस पर वॉइस रिकॉग्निशन उपलब्ध नहीं है</string>
+    <string name="camera_permission_required">फोटो खींचने के लिए कैमरा अनुमति आवश्यक है</string>
+    <string name="record_audio_permission_required">माइक से बोलने के लिए ऑडियो अनुमति आवश्यक है</string>
+</resources>
